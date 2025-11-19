@@ -1,4 +1,4 @@
-# 📌 Sobre a InCode Consultoria
+# 📌 Sobre a Incode Consultoria
 
 A **Incode Consultoria** é especializada em transformar processos empresariais por meio da tecnologia.  
 Nosso propósito é **impulsionar a digitalização e a eficiência das organizações**, sempre com foco em qualidade, inovação e relacionamento próximo com o cliente.  
